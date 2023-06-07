@@ -1,4 +1,9 @@
-👋 Hi, I'm Arthur Weyll, electrical engineer with expertise in HPC, Data Science, Time Series Forecasting, ML and Python. PHd student in Data Science and AI.
+👋 Hi, I'm Arthur Weyll, electrical engineer with expertise in HPC,
+Data Science, Time Series Forecasting, ML and Python.
+PHd student in Electrical Engineering with focus in Time Series 
+Forecasting with Machine Learning. Currently acting as a 
+Data Scientist and ML Consultant in RD&I and in the development of
+data driven ML systems.
 
 ☕ Main languages:
 
