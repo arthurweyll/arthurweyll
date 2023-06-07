@@ -1,5 +1,8 @@
-### 👋 Hi, I'm Arthur Weyll, electrical engineer with expertise in HPC, Data Science, Time Series Forecasting, ML and Python.
-PHd student in Data Science and AI.
+👋 Hi, I'm Arthur Weyll, electrical engineer with expertise in HPC, Data Science, Time Series Forecasting, ML and Python. PHd student in Data Science and AI.
+
+> ☕ Main languages:
+> Matlab 
+> Python
 
 <!--
 **arthurweyll/arthurweyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
