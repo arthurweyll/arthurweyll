@@ -7,7 +7,6 @@ data driven ML systems.
 
 ☕ Main languages:
 
-- Matlab 
 - Python
 
 <!--
